@@ -1,2 +1,3 @@
-# simpledbjs.github.io
-## The Simple DataBase System using json format, http, and Node.js~
+# SimpleDataBase.js - The Simple DataBase System using json format, http, and Node.js
+
+
